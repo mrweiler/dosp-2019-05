@@ -14,7 +14,7 @@ output:
       readonly: FALSE
 ---
 
-# <small> What did we do last Monday?</small>
+# <small> What did we do last session?</small>
 
 ----
 
