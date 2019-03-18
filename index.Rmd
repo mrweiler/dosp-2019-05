@@ -49,6 +49,11 @@ presentation to GitHub?
 
 ----
 
+Who of you posted a link  
+to your slides on Slack?
+
+----
+
 Any questions regarding  
 last session's homework?
 
@@ -156,87 +161,87 @@ Any questions?
 
 ----
 
-01: Ismini  
+01: [Ismini](https://isminilym.github.io/ismini1)  
 (next: Grigoria)  
 
 ----
 
-02: Grigoria  
+02: [Grigoria](https://gkapelle.github.io/gregkap97/executivediet)  
 (next: Androniki)  
 
 ----
 
-03: Androniki  
+03: [Androniki](https://andronikib.github.io/niki/niki.html)  
 (next: Maria-Eirini N.)  
 
 ----
 
-04: Maria-Eirini N.	 
+04: [Maria-Eirini N.](https://andronikib.github.io/niki/niki.html)  
 (next: Marios)  
 
 ----
 
-05: Marios  
+05: [Marios](https://selamarios.github.io/Marios-Sela)  
 (next: Sotiria)  
 
 ----
 
-06: Sotiria  
+06: [Sotiria](#/8/6)  
 (next: Maria B.)  
 
 ----
 
-07: Maria B.  
+07: [Maria B.](https://mariabatzaki.github.io/Maria/finalproposal.html)  
 (next: Georgia)  
 
 ----
 
-08: Georgia  
+08: [Georgia](https://gnnediou.github.io/gnnediou/Male%20sexism1)  
 (next: Konstantinos)  
 
 ----
 
-09: Konstantinos  
+09: [Konstantinos](https://metallinoskonstantinos.github.io/MetallinosKon/)  
 (next: Ariadni)  
 
 ----
 
-10: Ariadni  
+10: [Ariadni](https://gnnediou.github.io/gnnediou/infidelity#/)  
 (next: Aggeliki)  
 
 ----
 
-11: Aggeliki  
+11: [Aggeliki](https://aggelikikafka.github.io/newrepo/presentation.html)  
 (next: Thomas)  
 
 ----
 
-12: Thomas  
+12: [Thomas](https://thomastsih.github.io/ThomasDAAD)  
 (next: Dimitra)  
 
 ----
 
-13: Dimitra  
+13: [Dimitra](https://dimitrasig.github.io/Dimitra-)  
 (next: Maria Ko.)  
 
 ----
 
-14: Maria Ko.  
+14: [Maria Ko.](#/8/14)  
 (next: Anna)  
 
 ----
 
-15: Anna  
+15: [Anna](#/8/15)  
 (next: Fotini)  
 
 ----
 
-16: Fotini  
+16: [Fotini](#/8/16)  
 (next: Maria-Dialechti Ke.)  
 
 ----
 
-17: Maria-Dialechti Ke.  
+17: [Maria-Dialechti Ke.](#/8/17)  
 
 ----
 
